@@ -2,3 +2,4 @@ logs
 datas
 temp
 checkpoints
+__pycache__
